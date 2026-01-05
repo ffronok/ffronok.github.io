@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   This is a description
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://ronokdev.github.io"
+url: "https://ffronok.github.io"
 
 github:
-  username: ronokdev # change to your github username
+  username: ffronok # change to your github username
 
 #twitter:
 #  username: ronokdev # change to your twitter username
@@ -41,9 +41,9 @@ social:
   email: ffronok@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-  #  - https://twitter.com/ronokdev # change to your twitter homepage
-    - https://www.linkedin.com/in/ronokdev/ # change to your github homepage
-    - https://github.com/ronokdev
+  #  - https://twitter.com/ffronok # change to your twitter homepage
+    - https://www.linkedin.com/in/ffronok/ # change to your github homepage
+    - https://github.com/ffronok
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
