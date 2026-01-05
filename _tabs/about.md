@@ -8,14 +8,14 @@ order: 4
 
 #### Who I am?
 - A software developer based in **[Germany](https://en.wikipedia.org/wiki/Germany).**
-- Have 8 years of hands-on experience in **software development**
+- Have 9 years of hands-on experience in **software development**
 - Developed products for **Financial service, Healthcare, contact center** business domains.
 - Have built **web** apps in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[SAP](https://www.sap.com/germany/index.html?url_id=auto_hp_redirect_germany)** as a **Software Engineer**.
+- 🏢 Working at **Infosys** as a **Senior Software Engineer**, and currently working with the SAP teams.
 - 👨‍💻 Writing `JAVA` and working with distributed systems.
-- 🌍 Mostly active on **[LinkedIn](https://www.linkedin.com/in/ronokdev)**.
+- 🌍 Mostly active on **[LinkedIn](https://www.linkedin.com/in/ffronok)**.
 - 📚 Currently learning about **clean architecture**.
 - 🛠️ Working on **microservices**, **distributed systems** professionally.
 
