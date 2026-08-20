@@ -93,7 +93,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: ronokdev/ronokdev.github.io # <gh-username>/<repo>
+    repo: ffronok/ffronok.github.io # <gh-username>/<repo>
     repo_id: R_kgDOJ-5M8Q
     category: General
     category_id: DIC_kwDOJ-5M8c4CZbjA
